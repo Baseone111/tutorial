@@ -3,7 +3,7 @@ spring:
     name: Alerts-Service
   data:
     mongodb:
-      #uri: mongodb+srv://opiofitson:EtnFcUECuhXVL1qx@cluster0.mzoxcjq.mongodb.net/footfreedom?retryWrites=true&w=majority
-      uri: mongodb://base:Philee1@mongodb:27017/alerts?authSource=admin
+      uri: mongodb+srv://opiofitson:EtnFcUECuhXVL1qx@cluster0.mzoxcjq.mongodb.net/footfreedom?retryWrites=true&w=majority
+      #uri: mongodb://base:Philee1@mongodb:27017/alerts?authSource=admin
 
       
